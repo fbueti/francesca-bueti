@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Raleway', sans-serif;
+}
+aside{
+	height: 100%;
+	position: fixed;
+	background-color: white;
+	float: left;
+	border: solid 1px red;
+	float: left;
+}
+.project{
+	position: initial;
+}
